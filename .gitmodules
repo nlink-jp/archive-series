@@ -79,3 +79,6 @@
 [submodule "util/gem-transcribe"]
 	path = util/gem-transcribe
 	url = https://github.com/nlink-jp/gem-transcribe.git
+[submodule "lab/slack-personal-agent"]
+	path = lab/slack-personal-agent
+	url = https://github.com/nlink-jp/slack-personal-agent.git

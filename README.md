@@ -39,6 +39,7 @@ Projects are grouped by the series they belonged to before they were archived.
 | [mcp-skeleton](https://github.com/nlink-jp/mcp-skeleton) | Python | MCP server skeleton — raw JSON-RPC 2.0 over stdio/SSE with API key auth, for learning MCP internals **Archived** — no longer used or maintained |
 | [meeting-note](https://github.com/nlink-jp/meeting-note) | Python | Meeting minutes structuring tool — audio/transcript to structured JSON via Gemini, then compile to Markdown/HTML **Archived** — superseded by the [meeting-notes](https://github.com/nlink-jp/meeting-notes) Claude Code Skill |
 | [sai](https://github.com/nlink-jp/sai) | Python | Context-aware Slack bot with RAG memory and natural language command execution **Archived** — no longer used or maintained |
+| [slack-personal-agent](https://github.com/nlink-jp/slack-personal-agent) | Go/React | Personal Slack knowledge agent — multi-workspace monitoring, channel-scoped RAG over DuckDB with strict 3-tier isolation, Hot/Warm/Cold memory, MITL draft responses |
 | [virtual-reviewer](https://github.com/nlink-jp/virtual-reviewer) | Python | AI-powered security review system with LLM expert models — no RAG, UNIX philosophy **Archived** — superseded by the [compliance-review](https://github.com/nlink-jp/compliance-review) Claude Code Skill |
 | [workflow-builder](https://github.com/nlink-jp/workflow-builder) | — | LLM-powered workflow builder — generates shell scripts from natural language using CLI tool registry **Archived** (design phase only; never implemented) |
 
