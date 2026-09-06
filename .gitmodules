@@ -1,0 +1,81 @@
+[submodule "cybersecurity/ioc-collector"]
+	path = cybersecurity/ioc-collector
+	url = https://github.com/nlink-jp/ioc-collector.git
+[submodule "cybersecurity/product-research"]
+	path = cybersecurity/product-research
+	url = https://github.com/nlink-jp/product-research.git
+[submodule "cybersecurity/ai-ir"]
+	path = cybersecurity/ai-ir
+	url = https://github.com/nlink-jp/ai-ir.git
+[submodule "cybersecurity/ir-tracker"]
+	path = cybersecurity/ir-tracker
+	url = https://github.com/nlink-jp/ir-tracker.git
+[submodule "cybersecurity/ai-ir2"]
+	path = cybersecurity/ai-ir2
+	url = https://github.com/nlink-jp/ai-ir2.git
+[submodule "cybersecurity/mail-triage"]
+	path = cybersecurity/mail-triage
+	url = https://github.com/nlink-jp/mail-triage.git
+[submodule "cybersecurity/cti-primer"]
+	path = cybersecurity/cti-primer
+	url = https://github.com/nlink-jp/cti-primer.git
+[submodule "cybersecurity/cti-graph"]
+	path = cybersecurity/cti-graph
+	url = https://github.com/nlink-jp/cti-graph.git
+[submodule "cybersecurity/ir-hub"]
+	path = cybersecurity/ir-hub
+	url = https://github.com/nlink-jp/ir-hub.git
+[submodule "lab/magi-system"]
+	path = lab/magi-system
+	url = https://github.com/nlink-jp/magi-system.git
+[submodule "lab/sai"]
+	path = lab/sai
+	url = https://github.com/nlink-jp/sai.git
+[submodule "lab/log-analyzer"]
+	path = lab/log-analyzer
+	url = https://github.com/nlink-jp/log-analyzer.git
+[submodule "lab/workflow-builder"]
+	path = lab/workflow-builder
+	url = https://github.com/nlink-jp/workflow-builder.git
+[submodule "lab/magi-system2"]
+	path = lab/magi-system2
+	url = https://github.com/nlink-jp/magi-system2.git
+[submodule "lab/virtual-reviewer"]
+	path = lab/virtual-reviewer
+	url = https://github.com/nlink-jp/virtual-reviewer.git
+[submodule "lab/meeting-note"]
+	path = lab/meeting-note
+	url = https://github.com/nlink-jp/meeting-note.git
+[submodule "lab/mail-watcher"]
+	path = lab/mail-watcher
+	url = https://github.com/nlink-jp/mail-watcher.git
+[submodule "lab/agent-skeleton"]
+	path = lab/agent-skeleton
+	url = https://github.com/nlink-jp/agent-skeleton.git
+[submodule "lab/mcp-skeleton"]
+	path = lab/mcp-skeleton
+	url = https://github.com/nlink-jp/mcp-skeleton.git
+[submodule "lab/agentic-web-search"]
+	path = lab/agentic-web-search
+	url = https://github.com/nlink-jp/agentic-web-search.git
+[submodule "lite/lite-llm"]
+	path = lite/lite-llm
+	url = https://github.com/nlink-jp/lite-llm.git
+[submodule "util/mcp-guardian"]
+	path = util/mcp-guardian
+	url = https://github.com/nlink-jp/mcp-guardian.git
+[submodule "util/quick-translate"]
+	path = util/quick-translate
+	url = https://github.com/nlink-jp/quick-translate.git
+[submodule "util/shell-agent"]
+	path = util/shell-agent
+	url = https://github.com/nlink-jp/shell-agent.git
+[submodule "util/data-agent"]
+	path = util/data-agent
+	url = https://github.com/nlink-jp/data-agent.git
+[submodule "util/csv-editor"]
+	path = util/csv-editor
+	url = https://github.com/nlink-jp/csv-editor.git
+[submodule "util/gem-transcribe"]
+	path = util/gem-transcribe
+	url = https://github.com/nlink-jp/gem-transcribe.git
