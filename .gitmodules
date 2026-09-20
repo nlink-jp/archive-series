@@ -82,3 +82,6 @@
 [submodule "lab/slack-personal-agent"]
 	path = lab/slack-personal-agent
 	url = https://github.com/nlink-jp/slack-personal-agent.git
+[submodule "util/agent-board"]
+	path = util/agent-board
+	url = https://github.com/nlink-jp/agent-board.git

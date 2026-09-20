@@ -53,6 +53,7 @@ Projects are grouped by the series they belonged to before they were archived.
 
 | Project | Language | Description |
 |---------|----------|-------------|
+| [agent-board](https://github.com/nlink-jp/agent-board) | Go | Machine-local shared knowledge board for concurrent AI agent sessions (CLI + hooks + MCP) — worked as built but saw almost no use; no successor |
 | [csv-editor](https://github.com/nlink-jp/csv-editor) | Go + React (Wails) | CSV/TSV viewer & editor GUI — superseded by grid-edit |
 | [data-agent](https://github.com/nlink-jp/data-agent) | Go + React (Wails) | Data-analysis desktop GUI — superseded by shell-agent-v2 |
 | [gem-transcribe](https://github.com/nlink-jp/gem-transcribe) | Python | Audio transcription CLI on Vertex AI Gemini — superseded by gem-scribe |
