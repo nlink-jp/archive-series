@@ -12,6 +12,12 @@ Projects are grouped by the series they belonged to before they were archived.
 > `lite-llm` and `mail-watcher` carry no licence at all. Check the repository
 > you are actually looking at.
 
+## cli
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| [llm-cli](https://github.com/nlink-jp/llm-cli) | Go | CLI client for local LLMs (LM Studio, Ollama) — streaming, batch, multi-image VLM, structured output; superseded by [lagent](https://github.com/nlink-jp/lagent) |
+
 ## cybersecurity
 
 | Project | Language | Description |

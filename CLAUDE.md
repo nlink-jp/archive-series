@@ -23,6 +23,7 @@ The umbrella for archived projects. Every submodule is **read-only on GitHub**.
 
 ```
 archive-series/
+├── cli/             projects archived out of cli-series
 ├── cybersecurity/   projects archived out of cybersecurity-series
 ├── lab/             projects archived out of lab-series
 ├── lite/            projects archived out of lite-series

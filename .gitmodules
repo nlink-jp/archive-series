@@ -85,3 +85,6 @@
 [submodule "util/agent-board"]
 	path = util/agent-board
 	url = https://github.com/nlink-jp/agent-board.git
+[submodule "cli/llm-cli"]
+	path = cli/llm-cli
+	url = https://github.com/nlink-jp/llm-cli.git
