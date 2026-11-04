@@ -16,6 +16,7 @@ Projects are grouped by the series they belonged to before they were archived.
 
 | Project | Language | Description |
 |---------|----------|-------------|
+| [gem-cli](https://github.com/nlink-jp/gem-cli) | Go | Gemini client CLI on Vertex AI — multimodal prompts, streaming, chat sessions, grounding, structured output; superseded by [gem-agent](https://github.com/nlink-jp/gem-agent) |
 | [llm-cli](https://github.com/nlink-jp/llm-cli) | Go | CLI client for local LLMs (LM Studio, Ollama) — streaming, batch, multi-image VLM, structured output; superseded by [lagent](https://github.com/nlink-jp/lagent) |
 
 ## cybersecurity

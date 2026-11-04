@@ -88,3 +88,6 @@
 [submodule "cli/llm-cli"]
 	path = cli/llm-cli
 	url = https://github.com/nlink-jp/llm-cli.git
+[submodule "cli/gem-cli"]
+	path = cli/gem-cli
+	url = https://github.com/nlink-jp/gem-cli.git
