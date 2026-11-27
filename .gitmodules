@@ -91,3 +91,6 @@
 [submodule "cli/gem-cli"]
 	path = cli/gem-cli
 	url = https://github.com/nlink-jp/gem-cli.git
+[submodule "util/shell-agent-v2"]
+	path = util/shell-agent-v2
+	url = https://github.com/nlink-jp/shell-agent-v2.git

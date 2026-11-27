@@ -67,6 +67,7 @@ Projects are grouped by the series they belonged to before they were archived.
 | [mcp-guardian](https://github.com/nlink-jp/mcp-guardian) | Go | MCP governance proxy — bridging half superseded by mcp-bridge; the governance layer was never adopted in practice |
 | [quick-translate](https://github.com/nlink-jp/quick-translate) | Swift | macOS menu-bar translation via a local LLM (OpenAI-compatible API) — superseded by instant-translate |
 | [shell-agent](https://github.com/nlink-jp/shell-agent) | Go + Swift | macOS LLM chat & agent — superseded by shell-agent-v2 |
+| [shell-agent-v2](https://github.com/nlink-jp/shell-agent-v2) | Go + React (Wails) | macOS chat & agent desktop app for interactive data analysis — MCP depended on the archived mcp-guardian; agents consolidated on gem-agent and lagent; no successor |
 
 ## Adding a newly archived project
 
